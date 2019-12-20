@@ -38,6 +38,24 @@ footer  {
     text-align: center;
 }
 
+a:link {
+    color: black;
+    text-decoration: none;
+}
+
+a:visited {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: #4AAAA5;
+    padding: 3px;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+}
+
 .img-headshot {
     float: left;
     margin: 10px;
