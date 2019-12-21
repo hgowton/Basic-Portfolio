@@ -79,15 +79,15 @@ a:hover {
 }
 
 .mid_container {
-    margin-bottom: 75px;
-    background-color: #ff0000;
+    overflow: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
 }
 
 .box-1 {
-    left: 40px; 
     overflow: scroll;
     float: left;
-    padding-left: 40px;
+    margin-left: 40px;
     width: 250px;
     height: 60px;
     background-color: #4AAAA5;
